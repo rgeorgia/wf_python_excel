@@ -1,2 +1,2 @@
-# wf_python_excel
+# WF Python Excel
 Python project with my buddies
